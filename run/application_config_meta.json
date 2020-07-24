@@ -1,0 +1,379 @@
+{
+  "siteFile": {
+    "/favicon.ico": "/Users/bugzhang/Desktop/node/doc-admin/config/config.default.ts"
+  },
+  "view": {
+    "cache": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg-view/config/config.local.js",
+    "root": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg-view/config/config.default.js",
+    "defaultExtension": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg-view/config/config.default.js",
+    "defaultViewEngine": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg-view/config/config.default.js",
+    "mapping": {
+      ".js": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg-view-vue-ssr/config/config.default.js"
+    }
+  },
+  "vuessr": {
+    "layout": "/Users/bugzhang/Desktop/node/doc-admin/config/config.default.ts",
+    "renderOptions": {
+      "basedir": "/Users/bugzhang/Desktop/node/doc-admin/config/config.default.ts",
+      "runInNewContext": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg-view-vue-ssr/config/config.default.js"
+    },
+    "injectCss": "/Users/bugzhang/Desktop/node/doc-admin/config/config.local.ts",
+    "doctype": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg-view-vue-ssr/config/config.default.js",
+    "manifest": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg-view-vue-ssr/config/config.default.js",
+    "injectHeadRegex": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg-view-vue-ssr/config/config.default.js",
+    "injectBodyRegex": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg-view-vue-ssr/config/config.default.js",
+    "injectJs": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg-view-vue-ssr/config/config.default.js",
+    "injectRes": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg-view-vue-ssr/config/config.default.js",
+    "crossorigin": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg-view-vue-ssr/config/config.default.js",
+    "mergeLocals": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg-view-vue-ssr/config/config.default.js",
+    "fallbackToClient": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg-view-vue-ssr/config/config.default.js",
+    "viewEngine": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg-view-vue-ssr/config/config.default.js",
+    "cache": {
+      "max": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg-view-vue-ssr/config/config.default.js",
+      "maxAge": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg-view-vue-ssr/config/config.default.js"
+    },
+    "afterRender": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg-view-vue-ssr/config/config.default.js"
+  },
+  "logger": {
+    "consoleLevel": "/Users/bugzhang/Desktop/node/doc-admin/config/config.default.ts",
+    "dir": "/Users/bugzhang/Desktop/node/doc-admin/config/config.default.ts",
+    "encoding": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg/config/config.default.js",
+    "env": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg/config/config.default.js",
+    "level": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg/config/config.default.js",
+    "disableConsoleAfterReady": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg/config/config.default.js",
+    "outputJSON": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg/config/config.default.js",
+    "buffer": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg/config/config.default.js",
+    "appLogName": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg/config/config.default.js",
+    "coreLogName": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg/config/config.default.js",
+    "agentLogName": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg/config/config.default.js",
+    "errorLogName": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg/config/config.default.js",
+    "coreLogger": {
+      "consoleLevel": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg/config/config.local.js"
+    },
+    "allowDebugAtProd": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg/config/config.default.js"
+  },
+  "static": {
+    "prefix": "/Users/bugzhang/Desktop/node/doc-admin/config/config.default.ts",
+    "dir": "/Users/bugzhang/Desktop/node/doc-admin/config/config.default.ts",
+    "maxAge": "/Users/bugzhang/Desktop/node/doc-admin/config/config.local.ts",
+    "dynamic": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg-static/config/config.default.js",
+    "preload": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg-static/config/config.default.js",
+    "buffer": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg-static/config/config.default.js",
+    "maxFiles": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg-static/config/config.default.js"
+  },
+  "keys": "/Users/bugzhang/Desktop/node/doc-admin/config/config.default.ts",
+  "middleware": "/Users/bugzhang/Desktop/node/doc-admin/config/config.default.ts",
+  "development": {
+    "ignoreDirs": "/Users/bugzhang/Desktop/node/doc-admin/config/config.local.ts",
+    "watchDirs": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg-development/config/config.default.js",
+    "fastReady": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg-development/config/config.default.js",
+    "reloadOnDebug": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg-development/config/config.default.js",
+    "overrideDefault": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg-development/config/config.default.js"
+  },
+  "logview": {
+    "dir": "/Users/bugzhang/Desktop/node/doc-admin/config/config.local.ts"
+  },
+  "webpack": {
+    "browser": "/Users/bugzhang/Desktop/node/doc-admin/config/config.local.ts",
+    "webpackConfigList": "/Users/bugzhang/Desktop/node/doc-admin/config/config.local.ts",
+    "port": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg-webpack/config/config.default.js",
+    "proxy": {
+      "host": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg-webpack/config/config.default.js",
+      "match": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg-webpack/config/config.default.js"
+    }
+  },
+  "session": {
+    "maxAge": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg-session/config/config.default.js",
+    "key": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg-session/config/config.default.js",
+    "httpOnly": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg-session/config/config.default.js",
+    "encrypt": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg-session/config/config.default.js"
+  },
+  "security": {
+    "domainWhiteList": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg-security/config/config.default.js",
+    "protocolWhiteList": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg-security/config/config.default.js",
+    "defaultMiddleware": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg-security/config/config.default.js",
+    "csrf": {
+      "enable": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg-security/config/config.default.js",
+      "type": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg-security/config/config.default.js",
+      "ignoreJSON": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg-security/config/config.default.js",
+      "useSession": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg-security/config/config.default.js",
+      "cookieName": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg-security/config/config.default.js",
+      "sessionName": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg-security/config/config.default.js",
+      "headerName": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg-security/config/config.default.js",
+      "bodyName": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg-security/config/config.default.js",
+      "queryName": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg-security/config/config.default.js",
+      "refererWhiteList": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg-security/config/config.default.js"
+    },
+    "xframe": {
+      "enable": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg-security/config/config.default.js"
+    },
+    "hsts": {
+      "enable": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg-security/config/config.local.js",
+      "maxAge": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg-security/config/config.default.js",
+      "includeSubdomains": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg-security/config/config.default.js"
+    },
+    "dta": {
+      "enable": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg-security/config/config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg-security/config/config.default.js"
+    },
+    "noopen": {
+      "enable": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg-security/config/config.default.js"
+    },
+    "nosniff": {
+      "enable": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg-security/config/config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg-security/config/config.default.js"
+    },
+    "xssProtection": {
+      "enable": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg-security/config/config.default.js"
+    },
+    "csp": {
+      "enable": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg-security/config/config.default.js",
+      "policy": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg-security/config/config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg-security/config/config.default.js",
+      "checkAddress": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg-security/config/config.default.js"
+    }
+  },
+  "helper": {
+    "shtml": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg-security/config/config.default.js"
+  },
+  "jsonp": {
+    "limit": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg-jsonp/config/config.default.js",
+    "callback": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg-jsonp/config/config.default.js",
+    "csrf": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg-jsonp/config/config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg-onerror/config/config.default.js",
+    "appErrorFilter": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg-onerror/config/config.default.js",
+    "templatePath": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg-onerror/config/config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg-i18n/config/config.default.js",
+    "dirs": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg-i18n/config/config.default.js",
+    "queryField": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg-i18n/config/config.default.js",
+    "cookieField": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg-i18n/config/config.default.js",
+    "cookieDomain": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg-i18n/config/config.default.js",
+    "cookieMaxAge": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg-i18n/config/config.default.js"
+  },
+  "watcher": {
+    "type": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg-watcher/config/config.local.js",
+    "eventSources": {
+      "default": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg-watcher/config/config.default.js",
+      "development": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg-watcher/config/config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg-schedule/config/config.default.js",
+      "file": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg-schedule/config/config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg-schedule/config/config.default.js"
+  },
+  "multipart": {
+    "mode": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg-multipart/config/config.default.js",
+    "autoFields": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg-multipart/config/config.default.js",
+    "defaultCharset": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg-multipart/config/config.default.js",
+    "fieldNameSize": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg-multipart/config/config.default.js",
+    "fieldSize": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg-multipart/config/config.default.js",
+    "fields": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg-multipart/config/config.default.js",
+    "fileSize": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg-multipart/config/config.default.js",
+    "files": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg-multipart/config/config.default.js",
+    "fileExtensions": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg-multipart/config/config.default.js",
+    "whitelist": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg-multipart/config/config.default.js",
+    "tmpdir": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg-multipart/config/config.default.js",
+    "cleanSchedule": {
+      "cron": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg-multipart/config/config.default.js"
+    }
+  },
+  "logrotator": {
+    "filesRotateByHour": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg-logrotator/config/config.default.js",
+    "hourDelimiter": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg-logrotator/config/config.default.js",
+    "filesRotateBySize": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg-logrotator/config/config.default.js",
+    "maxFileSize": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg-logrotator/config/config.default.js",
+    "maxFiles": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg-logrotator/config/config.default.js",
+    "rotateDuration": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg-logrotator/config/config.default.js",
+    "maxDays": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg-logrotator/config/config.default.js"
+  },
+  "cors": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg-cors/config/config.default.js",
+  "env": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg/config/config.default.js",
+  "name": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg/config/config.default.js",
+  "cookies": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg/config/config.default.js",
+  "proxy": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg/config/config.default.js",
+  "maxIpsCount": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg/config/config.default.js",
+  "maxProxyCount": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg/config/config.default.js",
+  "protocolHeaders": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg/config/config.default.js",
+  "ipHeaders": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg/config/config.default.js",
+  "hostHeaders": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg/config/config.default.js",
+  "pkg": {
+    "name": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg/config/config.default.js",
+    "version": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg/config/config.default.js",
+    "description": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg/config/config.default.js",
+    "scripts": {
+      "start": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg/config/config.default.js",
+      "backend": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg/config/config.default.js",
+      "dev": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg/config/config.default.js",
+      "debug": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg/config/config.default.js",
+      "build": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg/config/config.default.js",
+      "tsc": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg/config/config.default.js",
+      "clean": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg/config/config.default.js",
+      "kill": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg/config/config.default.js",
+      "lint": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg/config/config.default.js",
+      "fix": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg/config/config.default.js",
+      "ii": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg/config/config.default.js",
+      "changelog": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg/config/config.default.js"
+    },
+    "dependencies": {
+      "@hubcarl/json-typescript-mapper": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg/config/config.default.js",
+      "axios": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg/config/config.default.js",
+      "egg": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg/config/config.default.js",
+      "egg-cors": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg/config/config.default.js",
+      "egg-scripts": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg/config/config.default.js",
+      "egg-view-vue-ssr": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg/config/config.default.js",
+      "egg-webpack": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg/config/config.default.js",
+      "egg-webpack-vue": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg/config/config.default.js",
+      "element-ui": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg/config/config.default.js",
+      "extend": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg/config/config.default.js",
+      "font-awesome": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg/config/config.default.js",
+      "lodash": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg/config/config.default.js",
+      "lodash-id": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg/config/config.default.js",
+      "lowdb": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg/config/config.default.js",
+      "mockjs": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg/config/config.default.js",
+      "moment": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg/config/config.default.js",
+      "shortid": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg/config/config.default.js",
+      "showdown": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg/config/config.default.js",
+      "simplemde": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg/config/config.default.js",
+      "vue": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg/config/config.default.js",
+      "vue-property-decorator": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg/config/config.default.js",
+      "vue-router": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg/config/config.default.js",
+      "vuex": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg/config/config.default.js",
+      "vuex-class": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg/config/config.default.js",
+      "vuex-router-sync": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg/config/config.default.js"
+    },
+    "devDependencies": {
+      "@types/lodash": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg/config/config.default.js",
+      "@types/lowdb": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg/config/config.default.js",
+      "@types/node": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg/config/config.default.js",
+      "@types/shortid": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg/config/config.default.js",
+      "cz-conventional-changelog": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg/config/config.default.js",
+      "@easy-team/easywebpack-cli": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg/config/config.default.js",
+      "@easy-team/easywebpack-vue": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg/config/config.default.js",
+      "egg-bin": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg/config/config.default.js",
+      "egg-scripts": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg/config/config.default.js",
+      "egg-ts-helper": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg/config/config.default.js",
+      "imagemin-webpack-plugin": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg/config/config.default.js",
+      "node-tool-utils": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg/config/config.default.js",
+      "ts-loader": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg/config/config.default.js",
+      "ts-node": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg/config/config.default.js",
+      "tslint": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg/config/config.default.js",
+      "tslint-loader": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg/config/config.default.js",
+      "typescript": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg/config/config.default.js",
+      "less": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg/config/config.default.js",
+      "less-loader": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg/config/config.default.js"
+    },
+    "egg": {
+      "typescript": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg/config/config.default.js"
+    },
+    "engines": {
+      "node": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg/config/config.default.js"
+    },
+    "ci": {
+      "version": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg/config/config.default.js"
+    },
+    "repository": {
+      "type": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg/config/config.default.js",
+      "url": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg/config/config.default.js"
+    },
+    "author": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg/config/config.default.js",
+    "license": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg/config/config.default.js",
+    "homepage": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg/config/config.default.js",
+    "config": {
+      "commitizen": {
+        "path": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg/config/config.default.js"
+      }
+    },
+    "webpack": {
+      "loaders": {
+        "less": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg/config/config.default.js"
+      }
+    }
+  },
+  "baseDir": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg/config/config.default.js",
+  "HOME": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg/config/config.default.js",
+  "rundir": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg/config/config.default.js",
+  "dump": {
+    "ignore": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg/config/config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg/config/config.default.js",
+    "notFound": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg/config/config.default.js",
+    "sitefile": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg/config/config.default.js",
+    "middlewares": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg/config/config.default.js",
+    "httpClient": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg/config/config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg/config/config.default.js"
+  },
+  "bodyParser": {
+    "enable": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg/config/config.default.js",
+    "formLimit": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg/config/config.default.js",
+    "jsonLimit": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg/config/config.default.js",
+    "textLimit": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg/config/config.default.js",
+    "strict": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg/config/config.default.js",
+    "queryString": {
+      "arrayLimit": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg/config/config.default.js",
+      "depth": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg/config/config.default.js",
+      "parameterLimit": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg/config/config.default.js"
+    },
+    "onerror": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg/config/config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg/config/config.default.js",
+    "dnsCacheLookupInterval": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg/config/config.default.js",
+    "dnsCacheMaxLength": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg/config/config.default.js",
+    "request": {
+      "timeout": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg/config/config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg/config/config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg/config/config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg/config/config.default.js",
+    "logging": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg/config/config.default.js"
+  },
+  "coreMiddleware": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg/config/config.default.js",
+  "workerStartTimeout": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg/config/config.default.js",
+  "serverTimeout": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg/config/config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg/config/config.default.js",
+      "port": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg/config/config.default.js",
+      "hostname": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg/config/config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg/config/config.default.js",
+    "responseTimeout": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg/config/config.default.js"
+  },
+  "onClientError": "/Users/bugzhang/Desktop/node/doc-admin/node_modules/egg/config/config.default.js"
+}

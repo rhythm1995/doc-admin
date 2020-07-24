@@ -1,0 +1,41 @@
+{
+  "chunk/0.js": "/public/js/chunk/0.js",
+  "chunk/1.js": "/public/js/chunk/1.js",
+  "chunk/2.js": "/public/js/chunk/2.js",
+  "chunk/3.js": "/public/js/chunk/3.js",
+  "admin/home.js": "/public/js/chunk/admin/home.js",
+  "admin/login.js": "/public/js/chunk/admin/login.js",
+  "common.js": "/public/js/chunk/common.js",
+  "runtime.js": "/public/js/runtime.js",
+  "font/element-icons.ttf": "/public/font/element-icons.ttf",
+  "font/element-icons.woff": "/public/font/element-icons.woff",
+  "font/fontawesome-webfont.eot?v=4.7.0": "/public/font/fontawesome-webfont.eot",
+  "font/fontawesome-webfont.ttf?v=4.7.0": "/public/font/fontawesome-webfont.ttf",
+  "font/fontawesome-webfont.woff?v=4.7.0": "/public/font/fontawesome-webfont.woff",
+  "font/fontawesome-webfont.woff2?v=4.7.0": "/public/font/fontawesome-webfont.woff2",
+  "img/fontawesome-webfont.svg?v=4.7.0": "/public/img/fontawesome-webfont.svg",
+  "img/logo.png": "/public/img/logo.png",
+  "deps": {
+    "admin/login.js": {
+      "js": [
+        "/public/js/runtime.js",
+        "/public/js/chunk/common.js",
+        "/public/js/chunk/admin/login.js"
+      ],
+      "css": []
+    },
+    "admin/home.js": {
+      "js": [
+        "/public/js/runtime.js",
+        "/public/js/chunk/common.js",
+        "/public/js/chunk/admin/home.js"
+      ],
+      "css": []
+    }
+  },
+  "info": {
+    "publicPath": "/public/",
+    "buildPath": "public",
+    "mapped": true
+  }
+}

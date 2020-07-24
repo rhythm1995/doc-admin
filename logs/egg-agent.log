@@ -1,0 +1,11 @@
+2020-07-24 17:24:49,221 INFO 45888 [egg:logger] init all loggers with options: {"dir":"/Users/bugzhang/Desktop/node/doc-admin/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-vue-typescript-boilerplate-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2020-07-24 17:24:49,230 INFO 45888 [egg:core] dump config after load, 5ms
+2020-07-24 17:24:49,279 INFO 45888 [egg-watcher] Start watching: ["/Users/bugzhang/Desktop/node/doc-admin/app","/Users/bugzhang/Desktop/node/doc-admin/config","/Users/bugzhang/Desktop/node/doc-admin/mocks","/Users/bugzhang/Desktop/node/doc-admin/mocks_proxy","/Users/bugzhang/Desktop/node/doc-admin/app.js"]
+2020-07-24 17:24:49,279 INFO 45888 [egg-watcher] Start watching: "/Users/bugzhang/Desktop/node/doc-admin/app"
+2020-07-24 17:24:49,280 INFO 45888 [egg-watcher] Start watching: "/Users/bugzhang/Desktop/node/doc-admin/config"
+2020-07-24 17:24:49,280 INFO 45888 [egg-watcher] Start watching: "/Users/bugzhang/Desktop/node/doc-admin/mocks"
+2020-07-24 17:24:49,280 INFO 45888 [egg-watcher] Start watching: "/Users/bugzhang/Desktop/node/doc-admin/mocks_proxy"
+2020-07-24 17:24:49,280 INFO 45888 [egg-watcher] Start watching: "/Users/bugzhang/Desktop/node/doc-admin/app.js"
+2020-07-24 17:24:49,280 INFO 45888 [egg-watcher:agent] watcher start success
+2020-07-24 17:24:49,293 INFO 45888 [egg:core] dump config after ready, 7ms
+2020-07-24 17:25:03,101 INFO 45888 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"/Users/bugzhang/Desktop/node/doc-admin/config/manifest.json","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":8663189750,"size":1415,"blocks":8,"atimeMs":1595582703083.3909,"mtimeMs":1595582703083.556,"ctimeMs":1595582703083.556,"birthtimeMs":1595582703083.3909,"atime":"2020-07-24T09:25:03.083Z","mtime":"2020-07-24T09:25:03.084Z","ctime":"2020-07-24T09:25:03.084Z","birthtime":"2020-07-24T09:25:03.083Z"},"remove":false,"isDirectory":false,"isFile":true}
